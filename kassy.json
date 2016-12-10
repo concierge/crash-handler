@@ -1,0 +1,6 @@
+{
+	"name": "crash-handler",
+	"version": 1.0,
+	"startup": "crash-handler.js",
+	"type": "service"
+}
